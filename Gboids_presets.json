@@ -1,0 +1,159 @@
+{
+	"pattrstorage" : 	{
+		"name" : "Gboids_presets",
+		"slots" : 		{
+			"1" : 			{
+				"id" : 1,
+				"data" : 				{
+					"agents" : [ 3 ],
+					"alignment" : [ 0.17 ],
+					"buffer_location" : [ "Macintosh HD:/Users/tiagoangelo/Music/My Recordings/Biblioteca de sons (ESART06-07)/Other Recordings/Field Recordings/Água/Água#4.aif" ],
+					"coherence" : [ 0.0 ],
+					"friction" : [ 0.0 ],
+					"gravity" : [ 0.8 ],
+					"gravpoint_x" : [ 0.44 ],
+					"gravpoint_y" : [ 0.455 ],
+					"inertia" : [ 0.8 ],
+					"master_volume" : [ 112 ],
+					"maxvel" : [ 0.4 ],
+					"preset_name" : [ "rhythmic", "pattern" ],
+					"rgb" : [ 255 ],
+					"rgb[1]" : [ 255 ],
+					"rgb[2]" : [ 255 ],
+					"separation" : [ 0.0 ],
+					"septhresh" : [ 0.0 ],
+					"size" : [ 5 ],
+					"y2playspeed" : [ 1 ],
+					"preferences::amp_interp" : [ 5.0 ],
+					"preferences::amp_thresh" : [ 0.0 ],
+					"preferences::grain_gain" : [ 4.0 ],
+					"preferences::pan_interpolation" : [ 25.0 ]
+				}
+
+			}
+,
+			"2" : 			{
+				"id" : 2,
+				"data" : 				{
+					"agents" : [ 4 ],
+					"alignment" : [ 0.17 ],
+					"buffer_location" : [ "Macintosh HD:/Users/tiagoangelo/Music/My Recordings/Biblioteca de sons (ESART06-07)/Other Recordings/Field Recordings/Água/Água#4.aif" ],
+					"coherence" : [ 0.0 ],
+					"friction" : [ 0.0 ],
+					"gravity" : [ 0.8 ],
+					"gravpoint_x" : [ 0.4425 ],
+					"gravpoint_y" : [ 0.4625 ],
+					"inertia" : [ 0.8 ],
+					"master_volume" : [ 112 ],
+					"maxvel" : [ 0.4 ],
+					"preset_name" : [ "assynchronous", "pattern" ],
+					"rgb" : [ 255 ],
+					"rgb[1]" : [ 255 ],
+					"rgb[2]" : [ 255 ],
+					"separation" : [ 0.1 ],
+					"septhresh" : [ 0.06 ],
+					"size" : [ 5 ],
+					"y2playspeed" : [ 1 ],
+					"preferences::amp_interp" : [ 5.0 ],
+					"preferences::amp_thresh" : [ 0.0 ],
+					"preferences::grain_gain" : [ 4.0 ],
+					"preferences::pan_interpolation" : [ 25.0 ]
+				}
+
+			}
+,
+			"3" : 			{
+				"id" : 3,
+				"data" : 				{
+					"agents" : [ 5 ],
+					"alignment" : [ 0.17 ],
+					"buffer_location" : [ "Macintosh HD:/Users/tiagoangelo/Music/My Recordings/Biblioteca de sons (ESART06-07)/Other Recordings/Field Recordings/Água/Água#4.aif" ],
+					"coherence" : [ 0.0 ],
+					"friction" : [ 0.0 ],
+					"gravity" : [ 0.09 ],
+					"gravpoint_x" : [ 0.4425 ],
+					"gravpoint_y" : [ 0.4625 ],
+					"inertia" : [ 0.015 ],
+					"master_volume" : [ 112 ],
+					"maxvel" : [ 0.4 ],
+					"preset_name" : [ "larger", "grains" ],
+					"rgb" : [ 255 ],
+					"rgb[1]" : [ 255 ],
+					"rgb[2]" : [ 255 ],
+					"separation" : [ 0.1 ],
+					"septhresh" : [ 0.06 ],
+					"size" : [ 58 ],
+					"y2playspeed" : [ 1 ],
+					"preferences::amp_interp" : [ 5.0 ],
+					"preferences::amp_thresh" : [ 0.0 ],
+					"preferences::grain_gain" : [ 4.0 ],
+					"preferences::pan_interpolation" : [ 25.0 ]
+				}
+
+			}
+,
+			"4" : 			{
+				"id" : 4,
+				"data" : 				{
+					"agents" : [ 11 ],
+					"alignment" : [ 0.17 ],
+					"buffer_location" : [ "Macintosh HD:/Users/tiagoangelo/Music/My Recordings/Biblioteca de sons (ESART06-07)/Idiofones/Vários/Wood/Wood#2.aif" ],
+					"coherence" : [ 0.0 ],
+					"friction" : [ 0.0 ],
+					"gravity" : [ 0.09 ],
+					"gravpoint_x" : [ 0.0 ],
+					"gravpoint_y" : [ 0.9525 ],
+					"inertia" : [ 0.015 ],
+					"master_volume" : [ 112 ],
+					"maxvel" : [ 0.4 ],
+					"preset_name" : [ "more", "grains" ],
+					"rgb" : [ 255 ],
+					"rgb[1]" : [ 255 ],
+					"rgb[2]" : [ 255 ],
+					"separation" : [ 0.1 ],
+					"septhresh" : [ 0.06 ],
+					"size" : [ 58 ],
+					"y2playspeed" : [ 1 ],
+					"preferences::amp_interp" : [ 5.0 ],
+					"preferences::amp_thresh" : [ 0.0 ],
+					"preferences::grain_gain" : [ 4.0 ],
+					"preferences::pan_interpolation" : [ 25.0 ]
+				}
+
+			}
+,
+			"5" : 			{
+				"id" : 5,
+				"data" : 				{
+					"agents" : [ 50 ],
+					"alignment" : [ 0.17 ],
+					"buffer_location" : [ "Macintosh HD:/Users/tiagoangelo/Music/My Recordings/Biblioteca de sons (ESART06-07)/Idiofones/Vários/Wood/Wood#2.aif" ],
+					"coherence" : [ 0.0 ],
+					"friction" : [ 0.0 ],
+					"gravity" : [ 1.0 ],
+					"gravpoint_x" : [ 0.8275 ],
+					"gravpoint_y" : [ 1.0 ],
+					"inertia" : [ 0.0 ],
+					"master_volume" : [ 112 ],
+					"maxvel" : [ 0.05 ],
+					"preset_name" : [ "play", "w/separation" ],
+					"rgb" : [ 255 ],
+					"rgb[1]" : [ 255 ],
+					"rgb[2]" : [ 255 ],
+					"separation" : [ 0.0 ],
+					"septhresh" : [ 0.05 ],
+					"size" : [ 26 ],
+					"y2playspeed" : [ 1 ],
+					"preferences::amp_interp" : [ 5.0 ],
+					"preferences::amp_thresh" : [ 0.0 ],
+					"preferences::grain_gain" : [ 4.0 ],
+					"preferences::pan_interpolation" : [ 25.0 ]
+				}
+
+			}
+
+		}
+
+	}
+
+}
