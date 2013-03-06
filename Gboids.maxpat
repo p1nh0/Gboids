@@ -66,7 +66,7 @@
 							"revision" : 8
 						}
 ,
-						"rect" : [ 580.0, 237.0, 295.0, 35.0 ],
+						"rect" : [ 534.0, 215.0, 298.0, 37.0 ],
 						"bglocked" : 0,
 						"openinpresentation" : 0,
 						"default_fontsize" : 10.0,
@@ -76,15 +76,16 @@
 						"gridsize" : [ 5.0, 5.0 ],
 						"gridsnaponopen" : 0,
 						"statusbarvisible" : 0,
-						"toolbarvisible" : 1,
+						"toolbarvisible" : 0,
 						"boxanimatetime" : 200,
 						"imprint" : 0,
 						"enablehscroll" : 1,
-						"enablevscroll" : 1,
+						"enablevscroll" : 0,
 						"devicewidth" : 0.0,
 						"description" : "",
 						"digest" : "",
 						"tags" : "",
+						"visible" : 1,
 						"boxes" : [ 							{
 								"box" : 								{
 									"fontname" : "Arial",
@@ -95,6 +96,8 @@
 									"numoutlets" : 1,
 									"outlettype" : [ "" ],
 									"patching_rect" : [ 132.0, 6.0, 152.0, 18.0 ],
+									"presentation" : 1,
+									"presentation_rect" : [ 137.0, 6.0, 152.0, 18.0 ],
 									"text" : "boidroids-example.maxpat"
 								}
 
@@ -139,7 +142,9 @@
 									"numinlets" : 1,
 									"numoutlets" : 0,
 									"patching_rect" : [ 5.0, 5.0, 283.0, 20.0 ],
-									"text" : "This patch is based on "
+									"presentation" : 1,
+									"presentation_rect" : [ 5.0, 5.0, 133.0, 20.0 ],
+									"text" : "This patch started from"
 								}
 
 							}
@@ -165,7 +170,7 @@
  ]
 					}
 ,
-					"patching_rect" : [ 165.0, 71.0, 48.0, 18.0 ],
+					"patching_rect" : [ 180.0, 246.5, 48.0, 18.0 ],
 					"saved_object_attributes" : 					{
 						"default_fontface" : 0,
 						"default_fontname" : "Arial",
@@ -361,7 +366,7 @@
 					}
 ,
 					"text" : "autopattr",
-					"varname" : "u362001979"
+					"varname" : "u878001124"
 				}
 
 			}
@@ -1327,7 +1332,7 @@
 									}
 ,
 									"text" : "autopattr",
-									"varname" : "u177001984"
+									"varname" : "u830001126"
 								}
 
 							}
@@ -7911,28 +7916,21 @@
  ],
 		"dependency_cache" : [ 			{
 				"name" : "polygboid.maxpat",
-				"bootpath" : "/Users/tiago/Documents/Programming/Max_MSP/p.projects/p.objects/MSP/Instruments/Gboids",
+				"bootpath" : "/Users/tiago/PinhoRepos/Max/Gboids",
 				"patcherrelativepath" : "",
-				"type" : "JSON",
-				"implicit" : 1
-			}
-, 			{
-				"name" : "p.gate~.maxpat",
-				"bootpath" : "/Users/tiago/Documents/Programming/Max_MSP/p.projects/p.objects/MSP/Mixing",
-				"patcherrelativepath" : "../../Mixing",
 				"type" : "JSON",
 				"implicit" : 1
 			}
 , 			{
 				"name" : "boidroids.js",
 				"bootpath" : "/Applications/Max6/examples/javascript/simulation",
-				"patcherrelativepath" : "../../../../../../../../../../Applications/Max6/examples/javascript/simulation",
+				"patcherrelativepath" : "../../../../../Applications/Max6/examples/javascript/simulation",
 				"type" : "TEXT",
 				"implicit" : 1
 			}
 , 			{
 				"name" : "Gboids_presets.json",
-				"bootpath" : "/Users/tiago/Documents/Programming/Max_MSP/p.projects/p.objects/MSP/Instruments/Gboids",
+				"bootpath" : "/Users/tiago/PinhoRepos/Max/Gboids",
 				"patcherrelativepath" : "",
 				"type" : "JSON",
 				"implicit" : 1

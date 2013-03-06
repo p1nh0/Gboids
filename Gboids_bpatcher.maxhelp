@@ -33,12 +33,12 @@
 					"fontsize" : 10.0,
 					"frgb" : 0.0,
 					"id" : "obj-15",
+					"linecount" : 2,
 					"maxclass" : "comment",
 					"numinlets" : 1,
 					"numoutlets" : 0,
-					"patching_rect" : [ 219.0, 82.0, 168.0, 22.0 ],
-					"presentation_rect" : [ 251.0, 110.0, 0.0, 0.0 ],
-					"text" : "view parameters' message tags"
+					"patching_rect" : [ 219.0, 77.0, 183.0, 33.0 ],
+					"text" : "view parameters' message tags\n(which is the same as pattr names)"
 				}
 
 			}
@@ -81,7 +81,6 @@
 					"numoutlets" : 1,
 					"outlettype" : [ "" ],
 					"patching_rect" : [ 55.0, 35.0, 54.0, 16.0 ],
-					"presentation_rect" : [ 91.0, 70.0, 0.0, 0.0 ],
 					"text" : "friction $1"
 				}
 
@@ -189,14 +188,14 @@
  ],
 		"dependency_cache" : [ 			{
 				"name" : "Gboids_bpatcher.maxpat",
-				"bootpath" : "/Users/tiago/Documents/Programming/Max_MSP/p.projects/p.objects/MSP/Instruments/Gboids",
+				"bootpath" : "/Users/tiago/PinhoRepos/Max/Gboids",
 				"patcherrelativepath" : "",
 				"type" : "JSON",
 				"implicit" : 1
 			}
 , 			{
 				"name" : "polygboid.maxpat",
-				"bootpath" : "/Users/tiago/Documents/Programming/Max_MSP/p.projects/p.objects/MSP/Instruments/Gboids",
+				"bootpath" : "/Users/tiago/PinhoRepos/Max/Gboids",
 				"patcherrelativepath" : "",
 				"type" : "JSON",
 				"implicit" : 1
@@ -204,13 +203,13 @@
 , 			{
 				"name" : "boidroids.js",
 				"bootpath" : "/Applications/Max6/examples/javascript/simulation",
-				"patcherrelativepath" : "../../../../../../../../../../Applications/Max6/examples/javascript/simulation",
+				"patcherrelativepath" : "../../../../../Applications/Max6/examples/javascript/simulation",
 				"type" : "TEXT",
 				"implicit" : 1
 			}
 , 			{
 				"name" : "Gboids_presets.json",
-				"bootpath" : "/Users/tiago/Documents/Programming/Max_MSP/p.projects/p.objects/MSP/Instruments/Gboids",
+				"bootpath" : "/Users/tiago/PinhoRepos/Max/Gboids",
 				"patcherrelativepath" : "",
 				"type" : "JSON",
 				"implicit" : 1
