@@ -426,7 +426,7 @@
 					"restore" : 					{
 						"agents" : [ 3 ],
 						"alignment" : [ 0.17 ],
-						"buffer_location" : [ "Macintosh HD:/Users/tiagoangelo/Music/My Recordings/Biblioteca de sons (ESART06-07)/Other Recordings/Field Recordings/Água/Água#4.aif" ],
+						"buffer_location" : [ "jongly" ],
 						"coherence" : [ 0.0 ],
 						"friction" : [ 0.0 ],
 						"gravity" : [ 0.8 ],
@@ -446,7 +446,7 @@
 					}
 ,
 					"text" : "autopattr",
-					"varname" : "u211009107"
+					"varname" : "u208011254"
 				}
 
 			}
@@ -470,14 +470,13 @@
 					"fontsize" : 10.0,
 					"frgb" : 0.0,
 					"id" : "obj-178",
-					"linecount" : 14,
 					"maxclass" : "textedit",
 					"numinlets" : 1,
 					"numoutlets" : 4,
 					"outlettype" : [ "", "int", "", "" ],
 					"parameter_enable" : 0,
 					"patching_rect" : [ 298.0, 324.0, 73.0, 17.0 ],
-					"text" : "\"Macintosh HD:/Users/tiagoangelo/Music/My Recordings/Biblioteca de sons (ESART06-07)/Other Recordings/Field Recordings/Água/Água#4.aif\"",
+					"text" : "jongly",
 					"varname" : "buffer_location"
 				}
 
@@ -1413,7 +1412,7 @@
 									}
 ,
 									"text" : "autopattr",
-									"varname" : "u300009109"
+									"varname" : "u096011256"
 								}
 
 							}
