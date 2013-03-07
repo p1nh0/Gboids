@@ -8,6 +8,7 @@
 		}
 ,
 		"rect" : [ 473.0, 390.0, 539.0, 364.0 ],
+		"bgcolor" : [ 1.0, 1.0, 1.0, 0.0 ],
 		"bglocked" : 0,
 		"openinpresentation" : 1,
 		"default_fontsize" : 10.0,
@@ -59,12 +60,12 @@
 					"fontname" : "Arial",
 					"fontsize" : 10.0,
 					"id" : "obj-195",
-					"maxclass" : "message",
-					"numinlets" : 2,
+					"maxclass" : "newobj",
+					"numinlets" : 1,
 					"numoutlets" : 1,
 					"outlettype" : [ "" ],
-					"patching_rect" : [ 175.0, 369.0, 46.0, 16.0 ],
-					"text" : "send $1"
+					"patching_rect" : [ 175.0, 369.0, 72.0, 18.0 ],
+					"text" : "prepend send"
 				}
 
 			}
@@ -384,7 +385,7 @@
 						"alignment" : [ 0.17 ],
 						"buffer_location" : [ "jongly" ],
 						"coherence" : [ 0.0 ],
-						"friction" : [ 0.0 ],
+						"friction" : [ 1.0 ],
 						"gravity" : [ 0.8 ],
 						"gravpoint_x" : [ 0.0 ],
 						"gravpoint_y" : [ 0.0 ],
@@ -397,12 +398,12 @@
 						"rgb[2]" : [ 255 ],
 						"separation" : [ 0.0 ],
 						"septhresh" : [ 0.0 ],
-						"size" : [ 5 ],
+						"size" : [ 15 ],
 						"y2playspeed" : [ 1 ]
 					}
 ,
 					"text" : "autopattr",
-					"varname" : "u578002329"
+					"varname" : "u911005684"
 				}
 
 			}
@@ -1165,7 +1166,7 @@
 									}
 ,
 									"text" : "autopattr",
-									"varname" : "u060002331"
+									"varname" : "u543005686"
 								}
 
 							}
@@ -7746,28 +7747,6 @@
 					"source" : [ "obj-99", 0 ]
 				}
 
-			}
- ],
-		"dependency_cache" : [ 			{
-				"name" : "polygboid.maxpat",
-				"bootpath" : "/Users/tiago/PinhoRepos/Max/Gboids",
-				"patcherrelativepath" : "",
-				"type" : "JSON",
-				"implicit" : 1
-			}
-, 			{
-				"name" : "boidroids.js",
-				"bootpath" : "/Applications/Max6/examples/javascript/simulation",
-				"patcherrelativepath" : "../../../../../Applications/Max6/examples/javascript/simulation",
-				"type" : "TEXT",
-				"implicit" : 1
-			}
-, 			{
-				"name" : "Gboids_presets.json",
-				"bootpath" : "/Users/tiago/PinhoRepos/Max/Gboids",
-				"patcherrelativepath" : "",
-				"type" : "JSON",
-				"implicit" : 1
 			}
  ]
 	}
